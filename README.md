@@ -1,16 +1,91 @@
-## Hi there 👋
+# Hi there 👋 It's SchroeDEV
 
-<!--
-**SchroeDEV2356/SchroeDEV2356** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+⚙️ Backend Dev | 👨‍🎓 Platzi Student
 
-Here are some ideas to get you started:
+💻 **BI Analyst, Big data Manager y entrepreneur**
+🥔 **Papa casada**
+🚗🧳 **Highway fan**
+🩺 **PhD**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+I've been fortunate of be involved in a quantity and variety of projects, where I have been able to learn from each one and developing myself in different rols, since a medical degree, OHS Managment, to a enterprise enviroment strongly oriented towards process optimization and then, strengthen the aptitute to solve big scale needs and empower the people decision-making thorugh new and unusual tools for a doctor.
+
+---
+
+## Contact me
+
+📧 [e-mail](lambda2356@gmail.com)
+
+---
+
+## Contenido de este repositorio
+
+Este repo cuenta con tres proyectos que usarás para tu curso de Git y Github.
+Los proyectos son los siguientes:
+
+## Contribuciones
+
+¿Estás aquí para crear un Issue o un Pull Request? ¡Puedes agregar tu participación en nuesta lista de contribuidores! Ve a este documento y agrega tus datos por medio de un PR.
+
+[Lista de contribuciones](/Contribuciones.md)
+
+## Plantilla web para presentación
+
+Una muy colorida plantilla HTML básica para lograr una muy buena presentación y llevar a tu audiencia a todos tus canalaes sociales.
+Puedes verla [aquí](/miSitio/).
+
+## API de Python básica
+
+Una API básica con solo tres métodos de prueba. ¡Lo que importa es aprender de Github ahora!
+Si quieres probarla en modo local solo necesitas escribir los comandos:
+
+```bash
+pip install -r requirements.txt
+```
+
+Y luego podrás ejecutar la aplicación usando [uvicorn](https://www.uvicorn.org/).
+
+```bash
+uvicorn app:app --reload
+```
+
+Puedes verla [aquí](/API_Python/).
+
+## Paquete de PIP
+
+Un paquete muy simple de PIP que servirá para crear un artefacto. ¿Te imaginas publicando tu primer paquete PIP?
+Todos los archivos preconstruidos están ya cargados en este repo, sin embargo los únicos dos que necesitas son **setup.py** y el contenido de la carpeta **mi_paquete**, todo lo demás lo puedes borrar.
+
+Modifica **setup.py** con tu propia información.
+
+```python
+from setuptools import setup, find_packages
+
+setup(
+    name="paquetePlatzi",                           # Nombre del paquete
+    version="0.1.0",                                # Versión inicial
+    packages=find_packages(),                       # Paquetes a incluir
+    description="Un paquete pip simple de saludo",  # Breve descripción
+    author="Amin Espinoza",                         # Tu nombre
+    author_email="amin@platzi.com",                 # Tu correo electrónico
+    url="https://github.com/platzi/git-github",     # URL del proyecto
+)
+```
+
+Después de eso si es necesario, instala las herramientas adecuadas para empaquetar el proyecto.
+
+```bash
+pip install setuptools wheel
+```
+
+Empaqueta tu proyecto.
+
+```bash
+python setup.py sdist bdist_wheel
+```
+
+Aquí es donde están todos los archivos de esta carpeta y donde la clase comenzará.
+Puedes verla [aquí](/Paquete/).
+Prueba pull requests.
+[EOF]
