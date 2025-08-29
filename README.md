@@ -15,7 +15,7 @@ I've been fortunate of be involved in a quantity and variety of projects, where 
 
 ## Contact me
 
-📧 [e-mail](lambda2356@gmail.com)\n
+📧 [e-mail](lambda2356@gmail.com)
 💼 [Linkedin](https://www.linkedin.com/in/ioannes-schroeder-7b46872a0/)
 
 ---
