@@ -5,7 +5,7 @@
 💻 **BI Analyst, Big data Manager y entrepreneur**
 🥔 **Papa casada**
 🚗🧳 **Highway fan**
-🩺 **PhD**
+🩺 **MD**
 
 ---
 
